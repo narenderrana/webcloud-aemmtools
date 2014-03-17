@@ -1,0 +1,11 @@
+{
+"title":"Delhi Public School",
+"logo":{
+"src":"/images/common/mainLogo1.png",
+"alt":"Delhi Public School"
+},
+"menus":{
+ "about-me":"/about_me",
+ "contact":"/contact-me"
+}
+}
